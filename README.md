@@ -1,5 +1,5 @@
 # SynergyNetworks
 Synergy neural network models
 
-This repository contains the accompanying code for paper "Extensions and Detail Analysis of Synergy Between Traditional and Classification Based on Negative Features in Deep Convolutional Neural Networks" submitted to Neural Network World journal in December 2023.
+This repository contains the accompanying code for paper "Extensions and Detail Analysis of Synergy Between Traditional and Classification Based on Negative Features in Deep Convolutional Neural Networks" submitted to Cognitive Computation journal in December 2023.
 
